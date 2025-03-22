@@ -5,7 +5,7 @@
 font-family: "Open Sans", sans-serif;
 font-optical-sizing: auto;
 font-style: normal;
-font-variation-settings: "wdth" 100;
+font-variation-settings: "width" 100;
 }
 
 /* shared styles */
@@ -122,6 +122,7 @@ main section{
     margin-left: 100px;
     margin-right: 100px;
     margin-bottom: 100px;
+    
 }
 .about-items{
     display: flex;
@@ -209,7 +210,7 @@ footer input[type="text"], footer input[type="email"], footer textarea{
 footer, .about{
     padding: 0px;
 }
-.footer-colum{
+.footer-column{
     width: 100%;
 }
 footer input[type="text"], footer input[type="email"], footer textarea{
